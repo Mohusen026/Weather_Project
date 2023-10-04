@@ -14,7 +14,7 @@ class SplashActivity : AppCompatActivity() {
          val intent=Intent(this,MainActivity::class.java)
             startActivity(intent)
             finish()
-        },3000) //Giving time for splash screen that how much time it hold it and 1sec=1000 millsecond
+        },4000) //Giving time for splash screen that how much time it hold it and 1sec=1000 millsecond
     }
 }
 

@@ -22,7 +22,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Weather Mmmmmatter,\nWe've Got The Details"
+        android:text="Weather Matter,\nWe've Got The Details"
 
         android:textColor="@color/white"
         android:textAlignment="center"
