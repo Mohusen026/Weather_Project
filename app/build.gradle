@@ -7,6 +7,10 @@ android {
     namespace 'com.mo_husen.weather_project'
     compileSdk 33
 
+    buildFeatures {
+        viewBinding true
+    }
+
     defaultConfig {
         applicationId "com.mo_husen.weather_project"
         minSdk 24
