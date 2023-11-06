@@ -1,7 +1,7 @@
 The Weather app is mobile app that provides user with up-to-date temprature,humidity,max temprature,min temprature,day,date and many more.
 Stay infored about current climate of world and easy-to-use and intuitive interface
 
-Features
+## Features
 1)Current Weather Information:
 -Temperature: The current temperature at the user's location or a specified location.
 -Conditions: A description of the current weather conditions, such as clear, cloudy, rainy, or snowy.
