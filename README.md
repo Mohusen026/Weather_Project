@@ -45,3 +45,12 @@ This application requires the following permission to ensure proper functionalit
 - **INTERNET**: This permission is necessary for the app to access the internet and retrieve data from external sources.
 
 Feel free to use this README template for your GitHub repository. You can customize it further and add more details as needed.
+
+![image](https://github.com/Mohusen026/Weather_Project/assets/141499445/d2e76ffd-dab1-43e9-b815-db4a7678c924)
+![image](https://github.com/Mohusen026/Weather_Project/assets/141499445/867e4886-42d0-416d-b571-c409a3a35a46)
+![image](https://github.com/Mohusen026/Weather_Project/assets/141499445/e79fc99c-d55a-4327-8b48-05bff1a1c942)
+![image](https://github.com/Mohusen026/Weather_Project/assets/141499445/93fb68c0-fe5d-42a6-8af5-72530a316bcc)
+
+
+
+
